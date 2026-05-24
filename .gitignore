@@ -1,0 +1,38 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Office temporary files
+~$*.docx
+~$*.xlsx
+~$*.pptx
+*.tmp
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+
+# Jupyter Notebooks checkpoints
+.ipynb_checkpoints/
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+
+# Data files — do not commit sensitive or large raw data
+data/raw/*.csv
+data/raw/*.xlsx
+data/raw/*.json
+data/raw/*.zip
+
+# Node (if any tooling is added)
+node_modules/
+
+# Build artifacts
+dist/
+build/
