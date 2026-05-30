@@ -5,6 +5,10 @@
 
 ---
 
+> **Status:** Initial validation plan based on the Claude research brief.  
+> This file is not yet an independent Gemini / Deepseek validation.  
+> Each claim must be rechecked against official sources before bid, outreach, or Go/No-Go decision.
+
 ## 1. Source Quality Assessment
 
 ### Primary Sources Used (High Confidence)

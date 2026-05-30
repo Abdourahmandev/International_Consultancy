@@ -8,7 +8,7 @@ L’objectif n’est pas seulement de comprendre le marché, mais de produire de
 ## Structure
 
 ```
-afrique/
+Africa/
 ├── README.md
 ├── project_charter.md
 ├── research_log.md
